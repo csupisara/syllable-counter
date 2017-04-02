@@ -1,0 +1,6 @@
+# ignore java output
+*.class
+bin/
+.settings/
+.classpath
+.project
